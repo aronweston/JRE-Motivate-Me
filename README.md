@@ -10,5 +10,5 @@ For those days that coding can get tough and you need a 52 tattooed bald man to 
 1. ~Commit app to Github~
 2. Build UI
 3. Get assets (images, soundbites, favicon)
-4. Decide if I want to keep it local or deploy to Herkou 
-5. Build out HTTP librar
+4. Decide if I want to keep it local or deploy to Heroku 
+5. Build out HTTP library
